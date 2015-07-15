@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:padding="16dp">
+	<android.support.design.widget.TextInputLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<EditText
+			android:id="@+id/edtKata"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:hint="Kata"
+			android:singleLine="true"
+			android:textColor="@color/primary_text"
+			android:textColorHint="@color/primary_text"
+			android:layout_marginBottom="8dp"/>
+	</android.support.design.widget.TextInputLayout>
+
+	<android.support.design.widget.TextInputLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		<EditText
+			android:id="@+id/edtArti"
+			android:layout_width="fill_parent"
+			android:layout_height="120dp"
+			android:hint="Arti"
+			android:singleLine="false"
+			android:gravity="top"
+			android:textColor="@color/primary_text"
+			android:textColorHint="@color/primary_text"
+			android:layout_marginBottom="8dp"/>
+	</android.support.design.widget.TextInputLayout>
+	<Button
+		android:id="@+id/btnFormAction"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Action"
+		android:textColor="@color/primary_text"/>
+</LinearLayout>

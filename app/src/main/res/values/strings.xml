@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">Psychology Dictioinary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Psychology Dictionary</string>
+    <string name="search_hint">eg : Anaphia</string>
+
+    <string name="notify_input_data">Input Data</string>
+    <string name="notify_searching">Pencarian</string>
+    <string name="text_please_wait">Harap Tunggu</string>
+    <string name="text_success_input">Data berhasil dimasukan</string>
+    <string name="text_success_update">Data berhasil diupdate</string>
+    <string name="text_success_delete">Data berhasil dihapus</string>
+    <string name="error_all_field_required">Semua field wajib diisi</string>
+    <string name="error_data_not_found">Kata tidak dapat ditemukan</string>
+</resources>

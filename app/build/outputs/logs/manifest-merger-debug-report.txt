@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:1:1
+	package
+		ADDED from AndroidManifest.xml:2:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:4:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:1:11
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:6:2
+	android:name
+		ADDED from AndroidManifest.xml:6:19
+application
+ADDED from AndroidManifest.xml:7:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.android.support:appcompat-v7:22.2.0:22:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.android.support:design:22.2.0:22:5
+MERGED from com.android.support:appcompat-v7:22.2.0:22:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+MERGED from com.android.support:support-v4:22.2.0:22:5
+	android:label
+		ADDED from AndroidManifest.xml:9:9
+	android:icon
+		ADDED from AndroidManifest.xml:8:9
+	android:theme
+		ADDED from AndroidManifest.xml:10:9
+	android:name
+		ADDED from AndroidManifest.xml:11:9
+activity#com.psychology.dictioinary.MainActivity
+ADDED from AndroidManifest.xml:12:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:15:13
+	android:label
+		ADDED from AndroidManifest.xml:14:13
+	android:name
+		ADDED from AndroidManifest.xml:13:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:16:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:17:17
+	android:name
+		ADDED from AndroidManifest.xml:17:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:18:17
+	android:name
+		ADDED from AndroidManifest.xml:18:27
+meta-data#android.app.default_searchable
+ADDED from AndroidManifest.xml:20:13
+	android:value
+		ADDED from AndroidManifest.xml:22:17
+	android:name
+		ADDED from AndroidManifest.xml:21:17
+activity#com.psychology.dictioinary.FormInputUpdateActivity
+ADDED from AndroidManifest.xml:24:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:27:13
+	android:label
+		ADDED from AndroidManifest.xml:26:13
+	android:name
+		ADDED from AndroidManifest.xml:25:13
+activity#com.psychology.dictioinary.SearchResultActivity
+ADDED from AndroidManifest.xml:29:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:32:13
+	android:label
+		ADDED from AndroidManifest.xml:31:13
+	android:name
+		ADDED from AndroidManifest.xml:30:13
+intent-filter#android.intent.action.SEARCH
+ADDED from AndroidManifest.xml:34:13
+action#android.intent.action.SEARCH
+ADDED from AndroidManifest.xml:35:17
+	android:name
+		ADDED from AndroidManifest.xml:35:25
+meta-data#android.app.searchable
+ADDED from AndroidManifest.xml:38:13
+	android:resource
+		ADDED from AndroidManifest.xml:40:17
+	android:name
+		ADDED from AndroidManifest.xml:39:17
+uses-sdk
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.android.support:appcompat-v7:22.2.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.android.support:design:22.2.0:20:5
+MERGED from com.android.support:appcompat-v7:22.2.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+MERGED from com.android.support:support-v4:22.2.0:20:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0

@@ -1,0 +1,35 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+
+        <!--   theme UI controls like checkboxes and text fields e.g. FloatActionButton -->
+        <item name="colorAccent">@color/accent</item>
+
+        <item name="actionBarStyle">@style/ActionBarStyle</item>
+    </style>
+
+    <!-- ActionBar related themes -->
+    <style name="ActionBarStyle" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="background">@color/primary</item>
+        <item name="titleTextStyle">@style/ActionBarStyle.TitleTextStyle</item>
+    </style>
+
+    <style name="ActionBarStyle.TitleTextStyle" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+
+    <!-- ActionBar related themes end here -->
+
+    <style name="AppCompatAlertDialogStyle" parent="Base.Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:textColorPrimary">@color/primary_text</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:layout_margin="10dp"
+    android:padding="16dp">
+    <TextView
+        android:id="@+id/txtWord"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Word"
+        android:textColor="@color/primary_text"
+        android:textSize="26sp"
+        android:layout_marginBottom="14dp"/>
+    <TextView 
+	    android:id="@+id/txtMeaning"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:text="Meaning"
+	    android:textColor="@color/primary_text"
+	    android:textSize="16sp"
+	    android:layout_marginBottom="8dp"
+        android:layout_below="@id/txtWord"/>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+		android:layout_below="@id/txtMeaning">
+        <Button 
+		    android:id="@+id/btnEdit"
+		    android:layout_weight="0.5"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center_horizontal"
+            android:textColor="@color/primary_text"
+		    android:text="Edit"/>
+        <Button 
+		    android:id="@+id/btnTutup"
+		    android:layout_weight="0.5"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center_horizontal"
+            android:textColor="@color/primary_text"
+		    android:text="Tutup"/>
+    </LinearLayout>
+
+</RelativeLayout>
