@@ -1,4 +1,4 @@
-# Psychology-Dictioinary
+# Psychology-Dictionary
 Aplikasi kamus sederhana dengan menggunakan SQLite
 
 Aplikasi ini mendemokan implementasi local storage dengan SQLite di Android dengan fungsi dasar Create, Read, Update dan Delete plus search.<br>
