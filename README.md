@@ -7,6 +7,7 @@ Insha allah ditulis dengan cara yang paling mudah dipahami dan silakan implement
 
 Result : <br>
 <img src="http://sidiqpermana.com/images/code_lab_sess_3_a.png" width="320px" height="526px"/> <img src="http://sidiqpermana.com/images/code_lab_sess_3_b.png" width="320px" height="526px"/> <img src="http://sidiqpermana.com/images/code_lab_sess_3_c.png" width="320px" height="526px"/> <img src="http://sidiqpermana.com/images/code_lab_sess_3_d.png" width="320px" height="526px"/> 
+<img src="http://sidiqpermana.com/images/code_lab_sess_3_e.png" width="320px" height="526px"/> 
 
 
 Thanks
