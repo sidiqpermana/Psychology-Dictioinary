@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PsychologyDictioinaryNew.iml" filepath="$PROJECT_DIR$/PsychologyDictioinaryNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Psychology-Dictioinary.iml" filepath="$PROJECT_DIR$/Psychology-Dictioinary.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

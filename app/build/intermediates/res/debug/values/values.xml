@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -17,10 +17,10 @@
     <color name="abc_search_url_text_normal">#7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
     <color name="abc_search_url_text_selected">@android:color/black</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="accent">#FFC107</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
@@ -40,26 +40,26 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="divider">#B6B6B6</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="error_color">#FFDD2C00</color>
     <color name="fab_stroke_end_inner_color">#0A000000</color>
     <color name="fab_stroke_end_outer_color">#0F000000</color>
     <color name="fab_stroke_top_inner_color">#1AFFFFFF</color>
     <color name="fab_stroke_top_outer_color">#2EFFFFFF</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="icons">#FFFFFF</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="link_text_material_dark">@color/material_deep_teal_200</color>
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
@@ -68,25 +68,25 @@
     <color name="material_blue_grey_950">#ff21272b</color>
     <color name="material_deep_teal_200">#ff80cbc4</color>
     <color name="material_deep_teal_500">#ff009688</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="primary">#FF5722</color>
     <color name="primary_dark">#E64A19</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">#ff000000</color>
     <color name="primary_dark_material_light">#ff757575</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="primary_light">#FFCCBC</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_material_dark">#ff212121</color>
     <color name="primary_material_light">#ffefefef</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="primary_text">#212121</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
@@ -94,22 +94,22 @@
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="ripple_material_dark">#4dffffff</color>
     <color name="ripple_material_light">#1f000000</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="secondary_text">#727272</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="shadow_end_color">@android:color/transparent</color>
     <color name="shadow_mid_color">#14000000</color>
     <color name="shadow_start_color">#44000000</color>
     <color name="snackbar_background_color">#323232</color>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
@@ -213,10 +213,10 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="appbar_elevation">4dp</dimen>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -224,7 +224,7 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="fab_border_width">0.5dp</dimen>
     <dimen name="fab_content_size">24dp</dimen>
@@ -239,17 +239,17 @@
     <dimen name="navigation_padding_bottom">8dp</dimen>
     <dimen name="navigation_padding_top_default">0dp</dimen>
     <dimen name="navigation_separator_vertical_padding">8dp</dimen>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="padding_large">16dp</dimen>
     <dimen name="padding_medium">8dp</dimen>
     <dimen name="padding_small">8dp</dimen>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="snackbar_action_inline_max_width">128dp</dimen>
     <dimen name="snackbar_background_corner_radius">0dp</dimen>
@@ -263,7 +263,7 @@
     <dimen name="snackbar_text_size">14sp</dimen>
     <dimen name="tab_max_width">264dp</dimen>
     <dimen name="tab_min_width">72dp</dimen>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -275,19 +275,19 @@
     <item name="progress_horizontal" type="id"/>
     <item name="split_action_bar" type="id"/>
     <item name="up" type="id"/>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <item name="view_offset_helper" type="id"/>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="snackbar_text_max_lines">2</integer>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -307,13 +307,13 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">Psychology Dictioinary</string>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="error_all_field_required">Semua field wajib diisi</string>
     <string name="error_data_not_found">Kata tidak dapat ditemukan</string>
@@ -322,17 +322,17 @@
     <string name="notify_input_data">Input Data</string>
     <string name="notify_searching">Pencarian</string>
     <string name="search_hint">eg : Anaphia</string>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="text_please_wait">Harap Tunggu</string>
     <string name="text_success_delete">Data berhasil dihapus</string>
     <string name="text_success_input">Data berhasil dimasukan</string>
     <string name="text_success_update">Data berhasil diupdate</string>
     <string name="title_activity_main">Psychology Dictionary</string>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ActionBarStyle" parent="@style/Widget.AppCompat.Light.ActionBar">
         <item name="background">@color/primary</item>
@@ -342,13 +342,13 @@
         <item name="android:textColor">@android:color/white</item>
         <item name="android:textColorPrimary">@android:color/white</item>
     </style>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppCompatAlertDialogStyle" parent="Base.Theme.AppCompat.Light.Dialog">
         <item name="colorAccent">@color/accent</item>
@@ -367,7 +367,7 @@
 
         <item name="actionBarStyle">@style/ActionBarStyle</item>
     </style>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1283,7 +1283,7 @@
         <item name="android:scaleType">center</item>
         <item name="android:background">?attr/selectableItemBackground</item>
     </style>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.Design.TabLayout" parent="android:Widget">
         <item name="tabMaxWidth">@dimen/tab_max_width</item>
@@ -1295,7 +1295,7 @@
         <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
     </style>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1494,7 +1494,7 @@
     </style>
     <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
     <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem"/>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.Design.Error" parent="TextAppearance.AppCompat.Caption">
         <item name="android:textColor">@color/error_color</item>
@@ -1514,7 +1514,7 @@
         <item name="android:textColor">?android:textColorSecondary</item>
         <item name="textAllCaps">true</item>
     </style>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.StatusBar.EventContent" parent=""/>
     <style name="TextAppearance.StatusBar.EventContent.Info" parent=""/>
@@ -1645,7 +1645,7 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="RtlOverlay.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/D:/nazah/PsychologyDictioinaryNew/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
+    <!-- From: file:/C:/Users/Student2/AndroidStudioProjects/Psychology-Dictioinary/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.Design.AppBarLayout" parent="android:Widget">
         <item name="elevation">@dimen/appbar_elevation</item>

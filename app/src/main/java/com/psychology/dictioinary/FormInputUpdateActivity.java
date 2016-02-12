@@ -104,6 +104,7 @@ public class FormInputUpdateActivity extends AppCompatActivity implements Observ
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
+		application.getKamusObserver().deleteObserver(this);
 		if (kamusHelper != null) {
 			kamusHelper.close();
 		}

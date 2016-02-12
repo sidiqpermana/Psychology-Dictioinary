@@ -29,7 +29,6 @@ public class KamusHelper {
 		dataBaseHelper = new DataBaseHelper(context);
 		database = dataBaseHelper.getWritableDatabase();
 		return this;
-		
 	}
 	
 	public void close(){
@@ -75,13 +74,12 @@ public class KamusHelper {
 			for (; !cursor.isAfterLast(); cursor.moveToNext()) {
 				result = cursor.getString(2);
 			}
-		} 
+		}
 		cursor.close();
 		return result;
 	}
 	
 	public Cursor queryAllData(){
-		
 		return database.rawQuery("SELECT * FROM "+DATABASE_TABLE+" ORDER BY kata ASC", null);
 	}
 	

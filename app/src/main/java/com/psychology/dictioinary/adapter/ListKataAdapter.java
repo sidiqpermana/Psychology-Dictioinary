@@ -40,25 +40,23 @@ public class ListKataAdapter extends BaseAdapter{
 		return 0;
 	}
 
-	public View getView(int arg0, View arg1, ViewGroup arg2) {
+	public View getView(int position, View convertView, ViewGroup viewGroup) {
 		// TODO Auto-generated method stub
-		View v = arg1;
 		ViewHolder holder = null;
 
-		if (v == null) {
+		if (convertView == null) {
 			holder = new ViewHolder();
 			LayoutInflater inflater = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-			v = inflater.inflate(R.layout.item_list_kata, null);
-			holder.txtKata = (TextView)v.findViewById(R.id.txtItemKata);
-
-			v.setTag(holder);
+			convertView = inflater.inflate(R.layout.item_list_kata, null);
+			holder.txtKata = (TextView)convertView.findViewById(R.id.txtItemKata);
+			convertView.setTag(holder);
 		} else {
-			holder = (ViewHolder)v.getTag();
+			holder = (ViewHolder)convertView.getTag();
 		}
 
-		holder.txtKata.setText(listKamus.get(arg0).getKata());
+		holder.txtKata.setText(listKamus.get(position).getKata());
 
-		return v;
+		return convertView;
 	}
 
 	static class ViewHolder{

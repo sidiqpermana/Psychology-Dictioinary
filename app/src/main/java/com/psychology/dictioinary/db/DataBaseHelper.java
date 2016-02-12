@@ -14,9 +14,9 @@ public class DataBaseHelper extends SQLiteOpenHelper{
 	
 	private static final int DATABASE_VERSION = 1;
 	
-	public static String CREATE_TABLE_KAMUS = "create table "+TABLE_NAME+" (_id integer primary key autoincrement, " +
-			"kata text not null, " +
-			"arti text not null);";
+	public static String CREATE_TABLE_KAMUS = "create table "+TABLE_NAME+" ("+FIELD_ID+" integer primary key autoincrement, " +
+			FIELD_KATA+" text not null, " +
+			FIELD_ARTI+" arti text not null);";
 	
 	public DataBaseHelper(Context context) {
 		super(context, DATABASE_NAME, null, DATABASE_VERSION);

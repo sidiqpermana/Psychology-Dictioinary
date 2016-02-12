@@ -31,7 +31,8 @@ import java.util.ArrayList;
 import java.util.Observable;
 import java.util.Observer;
 
-public class MainActivity extends AppCompatActivity implements Observer{
+public class MainActivity extends AppCompatActivity
+		 implements Observer{
 	
 	private ListView lvKata;
     private FloatingActionButton fab;
@@ -142,6 +143,7 @@ public class MainActivity extends AppCompatActivity implements Observer{
 	
 	@Override
 	protected void onDestroy() {
+		application.getKamusObserver().deleteObserver(this);
         if (kamusHelper != null){
             kamusHelper.close();
         }
